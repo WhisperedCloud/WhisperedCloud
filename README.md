@@ -75,19 +75,11 @@
 
 ---
 
-### 🌟 Featured Projects  
+### 🌟 Featured Project  
 
-#### 🍴 Recipe Sharing Platform  
-🔗 [Live Demo](#) | 💻 [Source Code](#)  
+#### 🍴 Recipe Sharing Platform - *FoodieSpace*  
+🔗 [Live Demo](https://foodiespace.vercel.app/) | 💻 [Source Code](#)  
 A full-stack platform where users can share, search, and save recipes. Built with **MERN stack** and **JWT authentication**.  
-
-#### 📊 AI-Powered Career Recommendation System  
-🔗 [Live Demo](#) | 💻 [Source Code](#)  
-Machine learning-based career recommendation tool that suggests paths based on user’s skills and interests.  
-
-#### 🛒 E-Commerce Website  
-🔗 [Live Demo](#) | 💻 [Source Code](#)  
-An online store with **cart, payment integration, and product management**. Developed with **React + Node.js**.  
 
 ---
 
