@@ -64,14 +64,30 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 #### 🎨 Design Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
+
+---
+
+### 🌟 Featured Projects  
+
+#### 🍴 Recipe Sharing Platform  
+🔗 [Live Demo](#) | 💻 [Source Code](#)  
+A full-stack platform where users can share, search, and save recipes. Built with **MERN stack** and **JWT authentication**.  
+
+#### 📊 AI-Powered Career Recommendation System  
+🔗 [Live Demo](#) | 💻 [Source Code](#)  
+Machine learning-based career recommendation tool that suggests paths based on user’s skills and interests.  
+
+#### 🛒 E-Commerce Website  
+🔗 [Live Demo](#) | 💻 [Source Code](#)  
+An online store with **cart, payment integration, and product management**. Developed with **React + Node.js**.  
 
 ---
 
