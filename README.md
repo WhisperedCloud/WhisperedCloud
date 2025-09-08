@@ -78,7 +78,7 @@
 ### 🌟 Featured Project  
 
 #### 🍴 Recipe Sharing Platform - *FoodieSpace*  
-🔗 [Live Demo](https://foodiespace.vercel.app/) | 💻 [Source Code](#)  
+🔗 [Live Demo](https://foodiespace.vercel.app/)  
 A full-stack platform where users can share, search, and save recipes. Built with **MERN stack** and **JWT authentication**.  
 
 ---
