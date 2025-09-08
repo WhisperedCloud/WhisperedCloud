@@ -76,23 +76,11 @@
 
 <h2 align="center">🌟 Featured Project</h2>
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🍴 Recipe Sharing Platform - <em>FoodieSpace</em></h3>
-      <p>
-        🔗 <a href="https://foodiespace.vercel.app/" target="_blank">Live Demo</a>
-      </p>
-      <p>
-        A full-stack platform where users can share, search, and save recipes.  
-        Built with <strong>MERN stack</strong> and <strong>JWT authentication</strong>.
-      </p>
-    </td>
-    <td width="40%">
-      <img src="Eswar.svg" alt="FoodieSpace Preview" width="300"/>
-    </td>
-  </tr>
-</table>
+<h3>🍴 Recipe Sharing Platform - <em>FoodieSpace</em></h3>  
+🔗 <a href="https://foodiespace.vercel.app/" target="_blank">Live Demo</a>  
+
+A full-stack platform where users can share, search, and save recipes.  
+Built with <strong>MERN stack</strong> and <strong>JWT authentication</strong>.  
 
 ---
 
