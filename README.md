@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Eswar.svg" alt="Eswar" width="200" height="200" style="border-radius:50%; border:4px solid #6C63FF;"/>
+  <img src="Eswar.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:4px solid #6C63FF;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Eswar</h1>
