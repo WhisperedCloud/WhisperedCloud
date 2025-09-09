@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Eswar.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:4px solid #6C63FF;"/>
+  <img src="Eswar_circle.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:4px solid #6C63FF;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Eswar</h1>
@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🔭 Working on **FoodieSpace – Recipe Sharing Platform**  
 - 🌱 Currently learning **React, Node.js, MongoDB**  
-- 🌐 Portfolio → [MyPortfolio](https://github.com/WhisperedCloud/MyPortfolio.git)  
+- 🌐 Portfolio → [MyPortfolio](https://my-portfolio-theta-seven-44.vercel.app/)  
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL, Graphic Designing**  
 - 📫 Reach me at **meswar811@gmail.com**  
 
