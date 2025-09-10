@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🔭 Working on **FoodieSpace – Recipe Sharing Platform**  
 - 🌱 Currently learning **React, Node.js, MongoDB**  
-- 🌐 Portfolio → [MyPortfolio](myadvance-portfolio.vercel.app)  
+- 🌐 Portfolio → [MyPortfolio](myadvance-portfolio.vercel.app/)  
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL, Graphic Designing**  
 - 📫 Reach me at **meswar811@gmail.com**  
 
