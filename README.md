@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  ⚡ <strong>Full Stack Developer</strong> • 🎨 <strong>UI/UX Designer</strong> • 🤖 <strong>Generative AI & Cloud Learner</strong><br/>
+  ⚡ <strong>Full Stack Developer</strong> • 🎨 <strong>UI/UX Designer</strong> • ☁️ <strong>Azure & Cloud Learner</strong><br/>
   <em>I build clean UI, scalable apps, and creative visuals — powered by code, design, and curiosity.</em>
 </p>
 
@@ -17,9 +17,9 @@
 
 ## 🚀 About Me  
 - 🎓 Engineering Student — **Jeppiaar Engineering College**  
-- 🧩 Skilled in **MERN, Flask, TypeScript, JavaScript, Python**  
-- 🎨 Experience in posters, t-shirt design & digital branding  
-- 🌩 Learning **Generative AI**, **AWS Cloud**  
+- 🧩 Experienced in **MERN, Flask, TypeScript, JavaScript, Python**  
+- 📘 Strong in building scalable full-stack apps & UI systems  
+- ☁️ Learning **Azure Cloud**, Generative AI, and AWS  
 - ✉️ Email: **meswar811@gmail.com**  
 - 🌐 Portfolio: **https://myadvance-portfolio.vercel.app**
 
@@ -29,52 +29,63 @@
 
 ### 🍴 **FoodieSpace – Recipe Sharing Platform**  
 🔗 https://foodiespace.vercel.app/  
-✔ MERN | Auth | Save Recipes | Modern UI
+✔ MERN | Auth | Save Recipes | Modern UI  
 
 ### 📈 **Finance Tracker**  
 🔗 https://finance-tracker-eight-xi.vercel.app/  
-✔ Charts | Budgets | Insights (TS + React)
+✔ TypeScript | Insights | Charts  
 
 ### 🧰 **Resume Toolkites**  
 🔗 https://resume-toolkites.vercel.app/  
-✔ Instant resume builder with templates
+✔ Resume Builder Templates  
 
 ### 🤖 **Eswar’s AI Chatbot**  
 🔗 https://eswars-chatbot.streamlit.app/  
-✔ Python + Streamlit + OpenAI/Groq
+✔ Python + Streamlit + Groq/OpenAI  
 
 ### 📸 **Polaroid Topaz**  
 🔗 https://polaroid-topaz.vercel.app/  
-✔ Photo effect filters (React)
+✔ Photo filters & animations  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+*(Extracted from Resume)* :contentReference[oaicite:1]{index=1}
 
 ### 🔹 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript  
+- Python  
+- PHP  
+- C++  
 
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🌐 Frontend  
+- React  
+- SCSS  
+- Bootstrap  
+- TailwindCSS  
 
-### 🤖 AI / Data  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🖥 Backend  
+- Node.js  
+- Express.js  
+- Flask  
+- Python  
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🗄 Databases  
+- MongoDB  
+- SQL  
+- Firebase  
+
+### ⚙️ Tools & Cloud  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Microsoft Excel  
+- UiPath (RPA)  
+- **Azure Cloud (Learning)**  
+- AWS (Learning)  
 
 ---
 
@@ -92,7 +103,7 @@
 ---
 
 ## 📄 Resume  
-📌 **[Download Resume](https://your-resume-link.com)**  
+📌 **[Download My Resume (PDF)](<sandbox:/mnt/data/Eswar_Resume (3>).pdf)**  
 
 ---
 
