@@ -1,123 +1,128 @@
+<!-- Profile Banner -->
 <p align="center">
-  <img src="Eswar_circle.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:4px solid #6C63FF;"/>
+  <img src="/mnt/data/github-ppic.gif" alt="Eswar Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Eswar (Roger)</h1>
-<h3 align="center">💻 Full Stack Developer | UI/UX Designer | Generative AI & Cloud Enthusiast</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Eswar+(Roger)!;Full+Stack+Developer;UI%2FUX+Designer+%7C+AI+Enthusiast;Always+Building+Something+Cool+🚀&center=true&width=650&height=55&color=7C5CFF&vCenter=true&size=25" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  🚀 I build clean UI, scalable backends, and polished full-stack apps — with a flair for design.
+  ⚡ <strong>Full Stack Developer</strong> • 🎨 <strong>UI/UX Designer</strong> • 🤖 <strong>Generative AI & Cloud Learner</strong> <br/>
+  I build clean UI, scalable apps, and creative visuals — powered by code, design, and curiosity.
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Engineering Student — Jeppiaar Engineering College  
-- 🔧 Full-stack: **MERN, Flask, Python, TypeScript**  
-- 🎨 UI/UX & Graphic Design — posters, t-shirt, social content  
-- 🌱 Currently learning **Generative AI** and **AWS Cloud**  
-- 📫 Email: **meswar811@gmail.com**  
-- 🌐 Portfolio: https://myadvance-portfolio.vercel.app
+## 🚀 About Me  
+- 🎓 Engineering Student — **Jeppiaar Engineering College**  
+- 🧩 Skilled in **MERN, Flask, TypeScript, JavaScript, Python**  
+- 🎨 Designed posters, t-shirts, branding & digital creatives  
+- 🌩 Exploring **Generative AI**, **AWS Cloud**, and **3D Web**  
+- 📧 Email: **meswar811@gmail.com**  
+- 🌐 Portfolio: **https://myadvance-portfolio.vercel.app**
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🍴 FoodieSpace – Recipe Sharing Platform  
-🔗 Live Demo: https://foodiespace.vercel.app/  
-A full-stack MERN app for sharing, searching and saving recipes with auth and a modern UI.
+### 🍴 **FoodieSpace – Recipe Sharing Platform**  
+🔗 https://foodiespace.vercel.app/  
+✔ MERN | Auth | Save Recipes | Modern UI
 
----
+### 📈 **Finance Tracker**  
+🔗 https://finance-tracker-eight-xi.vercel.app/  
+✔ Charts | Budgets | Insights (TS + React)
 
-### 📈 Finance Tracker  
-🔗 Live Demo: https://finance-tracker-eight-xi.vercel.app/  
-Income/expense tracker with budgeting, charts, and analytics — built with TypeScript and modern frontend tooling.
+### 🧰 **Resume Toolkites**  
+🔗 https://resume-toolkites.vercel.app/  
+✔ Instant resume builder with templates
 
----
+### 🤖 **Eswar’s AI Chatbot**  
+🔗 https://eswars-chatbot.streamlit.app/  
+✔ Python + Streamlit + OpenAI/Groq
 
-### 🧰 Resume Toolkites  
-🔗 Live Demo: https://resume-toolkites.vercel.app/  
-A lightweight toolset to create professional resumes and export them quickly — clean UX and template-driven.
-
----
-
-### 🤖 Eswar’s Chatbot (AI UI)  
-🔗 Live Demo: https://eswars-chatbot.streamlit.app/  
-Streamlit-based chatbot demo integrating LLM features, quick prototyping UI for AI experiments.
-
----
-
-### 📸 Polaroid Topaz (UI/Design Demo)  
-🔗 Live Demo: https://polaroid-topaz.vercel.app/  
-A design-focused front-end demo showcasing responsive layouts and polished micro-interactions.
+### 📸 **Polaroid Topaz**  
+🔗 https://polaroid-topaz.vercel.app/  
+✔ Photo effect filters (React)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+### 🔹 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 AI / Data  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🎨 3D • GIF • Visual Showoff
+
+<p align="center">
+  <img src="/mnt/data/github-ppic.gif" alt="3D Preview" width="420" style="border-radius:12px; box-shadow:0 0 25px rgba(124,92,255,0.5)" />
 </p>
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+> Want? I can also generate:  
+> ✔ PNG Preview • ✔ Rotating 3D GIF • ✔ GLB • ✔ `viewer.html`  
+> — all optimized for GitHub.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eswar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=eswar&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eswar&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
-### 🧰 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20PS-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UiPath-005DFF?style=for-the-badge&logo=uipath&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswar&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 🎛️ 3D — Showoff (interactive & GitHub-safe)
-I added three 3D showoff elements: an animated GIF preview, a static preview that links to an interactive host (Sketchfab / GitHub Pages / Vercel), and a downloadable glTF/GLB with usage instructions.
+## 📄 Resume  
+📌 **[Download Resume](https://your-resume-link.com)**  
 
-**How to use**  
-1. Put `3d-rotating-cube.gif` (or your recorded 3D animation) in the repo root.  
-2. Put `3d-model-preview.png` as a static preview image linking to your hosted interactive 3D viewer (Sketchfab, Vercel/GH Pages).  
-3. Add `3d-model.glb` (glTF binary) to `assets/3d/` and link it from your project pages — visitors can download it or you can host an interactive viewer on GitHub Pages.
+---
 
-
-### 🔷 3D Showoff
+## 🤝 Connect With Me  
 
 <p align="center">
-  <!-- animated GIF fallback (renders on GitHub) -->
-  <img src="3d-rotating-cube.gif" alt="3D rotating preview" width="420" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2)"/>
-</p>
-
-<p align="center">
-  <a href="https://your-interactive-3d-hosting.example.com" target="_blank">
-    <img src="3d-model-preview.png" alt="Interactive 3D (click to open)" width="560" style="border-radius:10px; margin-top:12px"/>
+  <a href="https://www.linkedin.com/in/eswar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:meswar811@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-**Files included**
-- `assets/3d/3d-model.glb` — glTF binary (downloadable)
-- `3d-rotating-cube.gif` — animated preview for the README
-- `3d-model-preview.png` — clickable preview image linking to the interactive viewer
+---
 
-> Tip: Host an interactive viewer on GitHub Pages or Vercel using `<model-viewer>` (glTF) or embed Sketchfab and link to it from the README for the full effect.
+> 💡 *"The best way to predict the future is to build it yourself."*  
