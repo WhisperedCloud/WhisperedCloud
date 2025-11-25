@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="/mnt/data/github-ppic.gif" alt="Eswar Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/WhisperedCloud/WhisperedCloud/main/github-ppic.gif" alt="Banner" width="100%" />
 </p>
 
 <!-- Animated Typing Header -->
