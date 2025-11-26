@@ -6,10 +6,7 @@
 <h1 align="center">Hi 👋, I'm Eswar</h1>
 <p align="center"><strong>💻 MERN Full Stack Developer</strong> • Clean UI Enthusiast • Scalable Backend Architect</p>
 
-<!-- Visitors Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WhisperedCloud&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
+
 
 <!-- Animated Divider -->
 <p align="center">
@@ -84,7 +81,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+ 
 </p>
 
 ### 🗄️ Databases
@@ -93,6 +90,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Design
