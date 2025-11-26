@@ -74,8 +74,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhisperedCloud&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhisperedCloud&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
 
