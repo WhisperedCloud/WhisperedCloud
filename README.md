@@ -2,11 +2,6 @@
   <img src="Eswar_circle.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:6px solid; border-image: linear-gradient(45deg,#6C63FF,#00C4CC) 1;" />
 </p>
  
- <!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WhisperedCloud/WhisperedCloud/main/github-ppic.gif" alt="Banner" width="100%" />
-</p>
-
 
 
 <h1 align="center">Hi 👋, I'm Eswar</h1>
