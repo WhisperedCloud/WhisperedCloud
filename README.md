@@ -16,7 +16,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL, Graphic Design**  
 - 📫 Email: **meswar811@gmail.com**  
 - 🔗 Portfolio: https://myadvance-portfolio.vercel.app/  
-- 📄 [Download Resume (PDF)](./_Eswar_Resume(3).pdf) 
+- 📄 [Download Resume (PDF)](./Eswar_Resume(3).pdf) 
 
 ---
 
