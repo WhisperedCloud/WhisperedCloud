@@ -1,22 +1,17 @@
+<p align="center">
+  <img src="Eswar_circle.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:6px solid; border-image: linear-gradient(45deg,#6C63FF,#00C4CC) 1;" />
+</p>
+ 
  <!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/WhisperedCloud/WhisperedCloud/main/github-ppic.gif" alt="Banner" width="100%" />
 </p>
 
-<!-- PROFILE -->
-<p align="center">
-  <img src="Eswar_circle.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:6px solid; border-image: linear-gradient(45deg,#6C63FF,#00C4CC) 1;" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Eswar</h1>
 <p align="center"><strong>💻 MERN Full Stack Developer</strong> • Clean UI enthusiast • Scalable backends</p>
 
-<p align="center">
-  <a href="#-projects">Featured</a> •
-  <a href="#-skills">Skills</a> •
-  <a href="#-projects-portfolio">Portfolio</a> •
-  <a href="#%EF%B8%8F-connect-with-me">Connect</a>
-</p>
 
 ---
 
@@ -26,20 +21,12 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL, Graphic Design**  
 - 📫 Email: **meswar811@gmail.com**  
 - 🔗 Portfolio: https://myadvance-portfolio.vercel.app/  
-- 📄 [Download Resume (PDF)](./Resume_Eswar.pdf) <!-- put your resume file in repo root -->
+- 📄 [Download Resume (PDF)](./_Eswar_Resume(3).pdf) 
 
 ---
 
 ## 🌟 Featured Project
-### 🍴 FoodieSpace — Recipe Sharing Platform  
-**Live Demo:** https://foodiespace.vercel.app/  
-A full-stack MERN app for sharing, searching and saving recipes with user authentication, profile pages and a modern responsive UI.
-
----
-
-## 🧩 Projects & Portfolio
-Below are selected projects — click to open live demos.
-
+- [FoodieSpace - https://foodiespace.vercel.app](https://foodiespace.vercel.app/) - Recipe Sharing Platform
 - [Resume Toolkits — resume-toolkites.vercel.app](https://resume-toolkites.vercel.app/) — Resume generator & toolkit showcase.  
 - [Aura AI (Sentiment Analysis) — eswars-aura-ai.streamlit.app](https://eswars-aura-ai.streamlit.app/) — Sentiment analysis and idea-generation with NLP.  
 - [Finance Tracker — finance-tracker-eight-xi.vercel.app](https://finance-tracker-eight-xi.vercel.app) — Tracks income/expenses with charts and budget analysis.  
@@ -111,16 +98,3 @@ Below are selected projects — click to open live demos.
 </p>
 
 ---
-
-### ✨ Tips & Next Steps
-- To show live demo tiles on your README consider adding small screenshots inside `/assets` and embedding them with `<img>` tags.  
-- Replace `WhisperedCloud` in the GitHub stats URLs with your GitHub username if different.  
-- Put `Resume_Eswar.pdf` at repo root so the Download Resume link works.
-
----
-
-Thanks — want me to also:
-1. Convert this to a **dark / light toggle** version?  
-2. Add small project screenshots (I can give the exact markdown for each screenshot)?  
-3. Create a PR-ready branch and commit message for you to paste into Git?
-
