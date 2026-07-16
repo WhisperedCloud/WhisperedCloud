@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6A11CB,100:0F0C29&height=200&section=header&text=&fontSize=0"/>
 
 <table width="100%">
 <tr>
@@ -41,7 +41,7 @@
   <a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
   <a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=8B5CF6" /></a>
   <a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
-  <a href="mailto:meswar811@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+  <a href="mailto:workofeswarcodes@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
   <img src="https://komarev.com/ghpvc/?username=WhisperedCloud&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 </p>
 
@@ -497,7 +497,7 @@ I enjoy solving real-world problems using modern technologies while continuously
 <a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"/></a>
 <a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=8B5CF6"/></a>
 <a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
-<a href="mailto:meswar811@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
+<a href="mailto:workofeswarcodes@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
 <a href="https://github.com/WhisperedCloud"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
