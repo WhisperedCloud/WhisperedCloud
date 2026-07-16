@@ -18,7 +18,7 @@
   <a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
   <a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-0f2027?style=for-the-badge&logo=readdotcv&logoColor=A78BFA" /></a>
   <a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-  <a href="mailto:workofeswarcodes@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+  <a href="mailto:meswar811@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
   <img src="https://komarev.com/ghpvc/?username=WhisperedCloud&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 </p>
 
@@ -46,7 +46,7 @@ I enjoy solving real-world problems using modern technologies while continuously
 
 <br/>
 
-```txt
+
 const eswar = {
     role: "Full Stack Developer",
     focus: ["AI Integration", "Backend Architecture", "Frontend Development"],
@@ -54,7 +54,7 @@ const eswar = {
     currentlyBuilding: ["LeaveFlow", "FoodieSpace", "AI Automation Tools", "Client Projects"],
     currentlyLearning: ["Docker", "AWS", "Azure", "DevOps", "System Design", "Microservices"],
 };
-```
+
 
 </td>
 <td width="45%" valign="top" align="center">
