@@ -1,140 +1,375 @@
-<!-- Profile Image -->
+
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-  <img src="Eswar_circle.png" alt="Eswar" width="200" height="200" style="border-radius:50%; border:6px solid; border-image: linear-gradient(45deg,#6C63FF,#00C4CC) 1;" />
+  <img src="Eswar_circle.png" alt="Eswar" width="200" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Eswar</h1>
-<p align="center"><strong>💻 MERN Full Stack Developer</strong> • Clean UI Enthusiast • Scalable Backend Architect</p>
+<h1 align="center">Hi 👋, I'm Eswar M</h1>
 
+<h3 align="center">
+🚀 Full Stack Developer • AI Integration Engineer • MERN Stack Developer • Software Engineer
+</h3>
 
-
-<!-- Animated Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
+Building scalable, modern web applications with AI-powered solutions and beautiful user experiences.
+</p>
+
+<p align="center">
+
+<a href="https://eswar-portfolio-developer.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:workofeswarcodes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/m--eswar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=WhisperedCloud&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" />
+</p>
 
-- 🔭 Working on **FoodieSpace – Recipe Sharing Platform**  
-- 🌱 Learning & improving: **Node.js**, **MongoDB**, **Azure**  
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Python, MySQL, Graphic Design**  
-- 📫 Email: **meswar811@gmail.com**  
-- 🌐 Portfolio → https://myadvance-portfolio.vercel.app/  
-- 📄 [Download Resume (PDF)](./Eswar_Resume%20(3).pdf)
+# 🚀 About Me
+
+💻 Passionate **Full Stack Developer** specializing in **MERN Stack**, **AI Integration**, and **Scalable Backend Systems**.
+
+I enjoy transforming ideas into production-ready applications with clean UI, optimized backend architecture, and intelligent AI-powered features.
+
+### 🌱 Currently Learning
+
+- Docker
+- AWS
+- Azure
+- System Design
+- Microservices
+- DevOps
+
+### 🔭 Currently Building
+
+- 🚀 LeaveFlow – Enterprise Leave Management System
+- 🍽️ FoodieSpace – Recipe Sharing Platform
+- 🤖 AI Automation Tools
+- 🌐 Freelance Client Projects
+
+### 💬 Ask Me About
+
+- React.js
+- TypeScript
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Python
+- REST APIs
+- Prompt Engineering
+- UI/UX Design
+
+📫 **Email**
+
+**workofeswarcodes@gmail.com**
+
+🌐 **Portfolio**
+
+https://eswar-portfolio-developer.vercel.app/
+
+📄 Resume
+
+Available in this repository.
 
 ---
 
-<!-- 3D Element -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WhisperedCloud/WhisperedCloud/main/3d-dev.gif" width="350px" />
+<img src="https://raw.githubusercontent.com/WhisperedCloud/WhisperedCloud/main/3d-dev.gif" width="350"/>
 </p>
 
-## 🌟 Featured Projects
-> **Click to view live demos**
+# 🌟 Featured Projects
 
-- 🍽️ **FoodieSpace** — Recipe Sharing Platform  
-  https://foodiespace.vercel.app  
+## 🚀 LeaveFlow — Leave Management System
 
-- 🧾 **Resume Toolkits** — Resume Generator  
-  https://resume-toolkites.vercel.app/
+Enterprise-grade Leave Approval & Management System.
 
-- 🤖 **Aura AI (Sentiment Analysis)**  
-  https://eswars-aura-ai.streamlit.app/
+### Features
 
-- 💸 **Finance Tracker** — Budget analytics  
-  https://finance-tracker-eight-xi.vercel.app
+- Role-Based Authentication
+- HR Dashboard
+- Manager Dashboard
+- Admin Dashboard
+- Employee Dashboard
+- Leave Approval Workflow
+- MongoDB Atlas
+- JWT Authentication
+- Modern Responsive UI
 
-- 📚 **Study Tracker** — Student productivity  
-  https://study-tracker-murex.vercel.app
+🔗 Live Demo
 
-- 📸 **Polaroid Topaz** — Polaroid showcase UI  
-  https://polaroid-topaz.vercel.app
-
-- 💬 **Eswar's Chatbot** — Streamlit chatbot  
-  https://eswars-chatbot.streamlit.app/
+https://leaveflowsystem.vercel.app
 
 ---
 
-<!-- Glowing Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/cove/master/assets/line-neon.gif" width="80%" />
-</p>
+## 🍽️ FoodieSpace
 
-## 🛠️ Tech Stack
+Modern Recipe Sharing Platform built with MERN Stack.
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+🔗
 
-### ⚙️ Backend & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
- 
-</p>
+https://foodiespace.vercel.app
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+---
 
-### 🧰 Tools & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/UiPath-005DFF?style=for-the-badge&logo=uipath&logoColor=white" />
+## 🤖 Aura AI
+
+AI Sentiment Analysis Platform using Python, NLP and Streamlit.
+
+🔗
+
+https://eswars-aura-ai.streamlit.app/
+
+---
+
+## 📄 Resume Toolkit
+
+Interactive Resume Builder
+
+🔗
+
+https://resume-toolkites.vercel.app/
+
+---
+
+## 💸 Finance Tracker
+
+Modern Expense & Budget Analytics Dashboard.
+
+🔗
+
+https://finance-tracker-eight-xi.vercel.app
+
+---
+
+## 📚 Study Tracker
+
+Productivity Tracker for Students.
+
+🔗
+
+https://study-tracker-murex.vercel.app
+
+---
+
+## 📸 Polaroid Topaz
+
+Modern Polaroid Gallery UI.
+
+🔗
+
+https://polaroid-topaz.vercel.app
+
+---
+
+## 🤖 Eswar's Chatbot
+
+Conversational AI Chatbot.
+
+🔗
+
+https://eswars-chatbot.streamlit.app/
+
+---
+
+# 💼 Freelance Projects
+
+Worked with startups and businesses to build AI-powered products.
+
+✔ AI Podcaster
+
+✔ AI Rasibalan
+
+✔ Speak to Slides
+
+✔ Chat to Website
+
+✔ Portfolio Websites
+
+✔ Business Landing Pages
+
+✔ AI Automation Solutions
+
+---
+
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WhisperedCloud&theme=tokyonight&no-bg=true&margin-w=10" />
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhisperedCloud&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=WhisperedCloud&show_icons=true&theme=tokyonight" height="160" />
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,sqlite"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/meswar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:meswar811@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+## 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
 </p>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=WhisperedCloud&theme=tokyonight&no-bg=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhisperedCloud&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WhisperedCloud&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhisperedCloud&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WhisperedCloud&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- IBM Generative AI
+- AWS Generative AI
+- Elements of AI
+- Full Stack Development
+- UI/UX Design
+- Figma Bootcamp
+
+---
+
+# ⚡ Fun Facts
+
+☕ Coffee + Music + Code = Productivity
+
+🎨 Graphic Designer turned Full Stack Developer
+
+🤖 Passionate about AI-powered Applications
+
+🚀 Always learning new technologies
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/m--eswar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:workofeswarcodes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://eswar-portfolio-developer.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ From <b>Eswar M</b> | Building the Future with Full Stack Development & AI 🚀
+
+</p>
+
