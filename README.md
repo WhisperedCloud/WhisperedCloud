@@ -1,16 +1,28 @@
-<div align="center">
+<img width="1440" height="812" alt="image" src="https://github.com/user-attachments/assets/9ea7e643-fd75-4b1e-965d-19dfbff84d84" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6A11CB,100:0F0C29&height=200&section=header&text=&fontSize=0"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6A11CB,100:0F0C29&height=250&section=header&text=&fontSize=0"/>
-
-<img src="https://github.com/WhisperedCloud.png" width="150" height="150" style="border-radius:50%;border:3px solid #8B5CF6;" alt="Eswar M"/>
+<table width="100%">
+<tr>
+<td width="75%" valign="middle">
 
 <h1>Hi 👋 I'm Eswar M</h1>
 
-<a href="https://eswar-portfolio-developer.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer;AI+Integration+Software+Engineer;MERN+Stack+Developer;Open+Source+Contributor;Problem+Solver;Software+Engineer" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-111827?style=flat-square&color=6366F1"/>
+<img src="https://img.shields.io/badge/AI_Integration_Software_Engineer-111827?style=flat-square&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/MERN_Stack_Developer-111827?style=flat-square&color=22D3EE"/>
+<img src="https://img.shields.io/badge/Software_Engineer-111827?style=flat-square&color=6366F1"/>
 
 <p><em>Building scalable applications with beautiful UI and AI-powered solutions.</em></p>
+
+</td>
+<td width="25%" align="right" valign="middle">
+
+<img src="https://github.com/WhisperedCloud.png" width="150" height="150" style="border-radius:50%;border:4px solid #8B5CF6;object-fit:cover;"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <br/>
 
