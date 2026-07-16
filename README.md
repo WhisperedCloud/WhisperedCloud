@@ -1,20 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20👋%20I'm%20Eswar%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Integration%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=250&section=header&text=&fontSize=0"/>
+
+<img src="https://github.com/WhisperedCloud.png" width="150" height="150" style="border-radius:50%;border:3px solid #38BDF8;" alt="Eswar M"/>
+
+<h1>Hi 👋 I'm Eswar M</h1>
+
+<a href="https://eswar-portfolio-developer.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer;AI+Integration+Engineer;MERN+Stack+Developer;Open+Source+Contributor;Problem+Solver;Software+Engineer" alt="Typing SVG" />
+</a>
+
+<p><em>Building scalable applications with beautiful UI and AI-powered solutions.</em></p>
 
 <br/>
 
-<a href="https://eswar-portfolio-developer.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;AI+Integration+Engineer;MERN+Stack+Developer;Open+Source+Contributor;Problem+Solver;Software+Engineer" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <em>Building scalable applications with beautiful UI and AI-powered solutions.</em>
+<!-- Quick Nav -->
+<p>
+  <a href="#-about-me">About</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#️-skills">Skills</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-certifications">Certs</a> •
+  <a href="#-lets-connect">Contact</a>
 </p>
 
 <br/>
 
-<p align="center">
+<p>
   <a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
   <a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-0f2027?style=for-the-badge&logo=readdotcv&logoColor=A78BFA" /></a>
   <a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
@@ -22,13 +34,15 @@
   <img src="https://komarev.com/ghpvc/?username=WhisperedCloud&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=WhisperedCloud&show_icons=true&hide=0&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=A78BFA&text_color=c9d1d9" width="0" height="0" style="display:none" />
+<img src="https://img.shields.io/github/followers/WhisperedCloud?label=Followers&style=social" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Available_for-Freelance_%7C_Full--Time-2c5364?style=flat-square&labelColor=0f2027&color=38BDF8" />
 
 </div>
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/placeholder-divider.png" width="0" style="display:none" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
 
@@ -38,7 +52,7 @@
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 Passionate **Full Stack Developer** specializing in scalable web applications, AI-powered products, modern frontend experiences, and backend architecture.
 
@@ -46,34 +60,46 @@ I enjoy solving real-world problems using modern technologies while continuously
 
 <br/>
 
-```txt
+```js
 const eswar = {
     role: "Full Stack Developer",
+    location: "India",
     focus: ["AI Integration", "Backend Architecture", "Frontend Development"],
     skills: ["Prompt Engineering", "REST APIs", "Database Design", "Modern UI"],
     currentlyBuilding: ["LeaveFlow", "FoodieSpace", "AI Automation Tools", "Client Projects"],
     currentlyLearning: ["Docker", "AWS", "Azure", "DevOps", "System Design", "Microservices"],
+    motto: "Ship clean code, design with intent."
 };
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top">
 
-| 🔧 What I Do |
-|:---|
-| 🖥️ Full Stack Development |
-| 🤖 AI Integration |
-| 🏗️ Backend Architecture |
-| 🎨 Frontend Development |
-| ✍️ Prompt Engineering |
-| 🔗 REST APIs |
-| 🗄️ Database Design |
-| ✨ Modern UI |
-| ☁️ Cloud Technologies |
+<div align="center">
+
+|  |  |
+|:---|:---|
+| 🖥️ | Full Stack Development |
+| 🤖 | AI Integration |
+| 🏗️ | Backend Architecture |
+| 🎨 | Frontend Development |
+| ✍️ | Prompt Engineering |
+| 🔗 | REST APIs |
+| 🗄️ | Database Design |
+| ✨ | Modern UI |
+| ☁️ | Cloud Technologies |
+
+</div>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+> *"Good design is invisible. Good code is inevitable."*
+
+</div>
 
 <br/>
 
@@ -97,10 +123,10 @@ const eswar = {
 
 <table>
 <tr>
-<td align="center">🖥️<br/><b>Full Stack Developer</b></td>
-<td align="center">🎨<br/><b>Frontend Developer</b></td>
-<td align="center">⚙️<br/><b>Backend Developer</b></td>
-<td align="center">🧑‍💻<br/><b>Software Engineer</b></td>
+<td align="center" width="25%">🖥️<br/><b>Full Stack Developer</b></td>
+<td align="center" width="25%">🎨<br/><b>Frontend Developer</b></td>
+<td align="center" width="25%">⚙️<br/><b>Backend Developer</b></td>
+<td align="center" width="25%">🧑‍💻<br/><b>Software Engineer</b></td>
 </tr>
 <tr>
 <td align="center">🤖<br/><b>AI Engineer</b></td>
@@ -117,6 +143,31 @@ const eswar = {
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+<div align="center">
+
+## 🌟 Featured Spotlight
+
+### 🗂️ LeaveFlow — Enterprise Leave Management System
+
+*My flagship project — a full role-based leave management platform built for real organizational workflows.*
+
+<img src="https://img.shields.io/badge/React-38BDF8?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-2c5364?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-1a1a2e?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-A78BFA?style=flat-square&logo=mongodb&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT_Auth-0f2027?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+**Highlights:** Role-Based Authentication • Employee / Manager / HR / Admin Dashboards • JWT Authentication • MongoDB Atlas • Fully Responsive UI
+
+<a href="https://leaveflowsystem.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/📂_Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ## 🚀 Featured Projects
@@ -127,26 +178,9 @@ const eswar = {
 
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🗂️ LeaveFlow</h3>
-<p align="center"><i>Enterprise Leave Management System</i></p>
-<p align="center">
-Role-Based Authentication • Employee / Manager / HR / Admin Dashboards • JWT Authentication • MongoDB Atlas • Responsive UI
-</p>
-<p align="center">
-<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
-</p>
-<p align="center">
-<a href="https://leaveflowsystem.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-</td>
-
-<td width="50%" valign="top">
 <h3 align="center">🍲 FoodieSpace</h3>
 <p align="center"><i>Recipe Sharing Platform</i></p>
-<p align="center">
-MERN Stack • Responsive UI • Authentication • Modern Design
-</p>
+<p align="center">MERN Stack • Responsive UI • Authentication • Modern Design</p>
 <p align="center">
 <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code>
 </p>
@@ -155,15 +189,11 @@ MERN Stack • Responsive UI • Authentication • Modern Design
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 <h3 align="center">🧠 Aura AI</h3>
 <p align="center"><i>AI Sentiment Analysis Platform</i></p>
-<p align="center">
-Real-time sentiment analysis powered by LLMs and NLP pipelines.
-</p>
+<p align="center">Real-time sentiment analysis powered by LLMs and NLP pipelines.</p>
 <p align="center">
 <code>Python</code> <code>Streamlit</code> <code>LLMs</code> <code>NLP</code>
 </p>
@@ -172,13 +202,13 @@ Real-time sentiment analysis powered by LLMs and NLP pipelines.
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 <h3 align="center">📄 Resume Toolkit</h3>
 <p align="center"><i>Interactive Resume Builder</i></p>
-<p align="center">
-Build, customize, and export professional resumes with a live preview.
-</p>
+<p align="center">Build, customize, and export professional resumes with a live preview.</p>
 <p align="center">
 <code>React</code> <code>JavaScript</code> <code>Tailwind</code>
 </p>
@@ -187,15 +217,11 @@ Build, customize, and export professional resumes with a live preview.
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 <h3 align="center">💰 Finance Tracker</h3>
 <p align="center"><i>Expense Management Dashboard</i></p>
-<p align="center">
-Track income, expenses, and spending trends with a clean dashboard UI.
-</p>
+<p align="center">Track income, expenses, and spending trends with a clean dashboard UI.</p>
 <p align="center">
 <code>React</code> <code>Node.js</code> <code>MongoDB</code>
 </p>
@@ -204,13 +230,13 @@ Track income, expenses, and spending trends with a clean dashboard UI.
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 <h3 align="center">📚 Study Tracker</h3>
 <p align="center"><i>Student Productivity App</i></p>
-<p align="center">
-Plan study sessions, track progress, and stay productive.
-</p>
+<p align="center">Plan study sessions, track progress, and stay productive.</p>
 <p align="center">
 <code>React</code> <code>Node.js</code> <code>Express</code>
 </p>
@@ -219,15 +245,11 @@ Plan study sessions, track progress, and stay productive.
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 <h3 align="center">📸 Polaroid Topaz</h3>
 <p align="center"><i>Creative Gallery UI</i></p>
-<p align="center">
-An aesthetic polaroid-style gallery experience with smooth interactions.
-</p>
+<p align="center">An aesthetic polaroid-style gallery experience with smooth interactions.</p>
 <p align="center">
 <code>React</code> <code>CSS</code> <code>JavaScript</code>
 </p>
@@ -236,13 +258,13 @@ An aesthetic polaroid-style gallery experience with smooth interactions.
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 <h3 align="center">💬 Eswar Chatbot</h3>
 <p align="center"><i>Conversational AI Chatbot</i></p>
-<p align="center">
-An LLM-powered conversational assistant with a clean chat interface.
-</p>
+<p align="center">An LLM-powered conversational assistant with a clean chat interface.</p>
 <p align="center">
 <code>Python</code> <code>Streamlit</code> <code>LLMs</code>
 </p>
@@ -251,11 +273,15 @@ An LLM-powered conversational assistant with a clean chat interface.
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </td>
+
+<td width="50%" valign="top"></td>
 </tr>
 
 </table>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
 
@@ -287,39 +313,76 @@ An LLM-powered conversational assistant with a clean chat interface.
 
 ## 🛠️ Skills
 
-### Frontend
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
 
-### Backend
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask" />
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python" />
-
-### Databases
+**Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
 
-### Cloud
+**Cloud**
+<br/>
 <img src="https://skillicons.dev/icons?i=firebase,supabase,aws,azure" />
 
-### AI
+</td>
+<td valign="top" width="50%">
+
+**AI**
+<br/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
-### Tools
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-### Design
+**Design**
+<br/>
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
-### DevOps
+**DevOps**
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 📈 Proficiency
+
+**JavaScript / TypeScript** &nbsp;`█████████░` 90%
+<br/>
+**React / Next.js** &nbsp;`█████████░` 90%
+<br/>
+**Node.js / Express** &nbsp;`████████░░` 85%
+<br/>
+**Python / AI Integration** &nbsp;`████████░░` 80%
+<br/>
+**MongoDB / SQL Databases** &nbsp;`████████░░` 80%
+<br/>
+**Cloud / DevOps (Docker, AWS, Azure)** &nbsp;`█████░░░░░` 55%
 
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
 
@@ -333,6 +396,8 @@ An LLM-powered conversational assistant with a clean chat interface.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhisperedCloud&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=ffffff" width="90%" />
 
 <br/><br/>
+
+### 🏆 GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=WhisperedCloud&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%" />
 
@@ -348,14 +413,12 @@ An LLM-powered conversational assistant with a clean chat interface.
 
 ## 🎓 Certifications
 
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center">🤖<br/><b>IBM Generative AI</b></td>
-<td align="center">☁️<br/><b>AWS Generative AI</b></td>
-<td align="center">🧠<br/><b>Elements of AI</b></td>
-<td align="center">💻<br/><b>Full Stack Development</b></td>
+<td align="center" width="25%">🤖<br/><b>IBM Generative AI</b></td>
+<td align="center" width="25%">☁️<br/><b>AWS Generative AI</b></td>
+<td align="center" width="25%">🧠<br/><b>Elements of AI</b></td>
+<td align="center" width="25%">💻<br/><b>Full Stack Development</b></td>
 </tr>
 <tr>
 <td align="center">🎨<br/><b>Figma</b></td>
@@ -363,6 +426,8 @@ An LLM-powered conversational assistant with a clean chat interface.
 <td align="center" colspan="2">✍️<br/><b>Prompt Engineering</b></td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -376,9 +441,13 @@ An LLM-powered conversational assistant with a clean chat interface.
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
 <div align="center">
 
 ## 📬 Let's Connect
+
+**Have an idea, a role, or a project in mind? My inbox is always open.**
 
 <a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=38BDF8"/></a>
 <a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-0f2027?style=for-the-badge&logo=readdotcv&logoColor=A78BFA"/></a>
