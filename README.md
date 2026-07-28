@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:065F46,100:0D1117&height=220&section=header&text=Eswar%20M&fontSize=55&fontColor=34D399&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Engineer&descSize=18&descAlignY=65&descColor=D1FAE5&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:065F46,100:0D1117&height=200&section=header&text=&fontSize=0"/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="72%" valign="middle">
 
-<img align="right" width="140" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=280&w=280&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+<h1>Hi 👋 I'm Eswar M</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Full_Stack_Developer-0D1117?style=flat-square&color=10B981"/>
@@ -12,7 +14,16 @@
 
 <p><em>Building scalable products, clean UI, and AI-powered tools — one commit at a time.</em></p>
 
-<br/>
+</td>
+<td width="28%" align="center" valign="middle">
+
+<img width="150" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <p>
   <a href="#-about">About</a> ·
@@ -173,12 +184,12 @@ Build, customize, and export resumes with live preview
 </td>
 <td width="50%" valign="top">
 
-**💰 Finance Tracker** — *Expense Management Dashboard*
+**💰 BudgetBot** — *Expense Management Dashboard*
 Track income, expenses & spending trends
 `React` `Node.js` `MongoDB`
 
 <a href="https://finance-tracker-eight-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-34D399?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/WhisperedCloud/BudgetBot.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
