@@ -1,19 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0D1117&height=200&section=header&text=&fontSize=0"/>
 
-<img align="right" width="90" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+<div align="center">
 
-<div align="center" width="100%">
+# Hi 👋, I'm Eswar M
 
-<h1>Hi 👋 I'm Eswar M</h1>
+### Full Stack Developer • AI Engineer • Open Source Enthusiast
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-0D1117?style=flat-square&color=6366F1"/>
-  <img src="https://img.shields.io/badge/AI_Integration_Engineer-0D1117?style=flat-square&color=A855F7"/>
-  <img src="https://img.shields.io/badge/MERN_Stack-0D1117?style=flat-square&color=EC4899"/>
-</p>
+<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+products+%F0%9F%9A%80;Crafting+clean%2C+modern+UI+%E2%9C%A8;Shipping+AI-powered+tools+%F0%9F%A4%96"/></a>
+<a href="https://eswar-portfolio-developer.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/m--eswar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:meswar811@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
