@@ -1,10 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0D1117&height=200&section=header&text=&fontSize=0"/>
 
-<img align="right" width="120" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+<img align="right" width="90" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
 
 <div align="center" width="100%">
 
 <h1>Hi 👋 I'm Eswar M</h1>
+
+<br clear="both"/>
 
 <p>
   <img src="https://img.shields.io/badge/Full_Stack_Developer-0D1117?style=flat-square&color=6366F1"/>
@@ -13,8 +15,6 @@
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+products+%F0%9F%9A%80;Crafting+clean%2C+modern+UI+%E2%9C%A8;Shipping+AI-powered+tools+%F0%9F%A4%96"/></a>
-
-<br clear="both"/>
 
 </div>
 
@@ -111,7 +111,7 @@ I like solving real-world problems with practical technology — and I'm always 
 <div align="center">
 
 `Full Stack Developer` · `Frontend Developer` · `Backend Developer` · `Software Engineer`
-`AI Engineer` · `Freelance Projects` · `Remote Opportunities` · `Internships` · `Collaborations`
+`AI Engineer` · `Freelance Projects` · `Remote Opportunities` · `Collaborations`
 
 </div>
 
@@ -152,7 +152,7 @@ I like solving real-world problems with practical technology — and I'm always 
 
 **🍲 FoodieSpace** — *Recipe Sharing Platform*
 MERN stack · responsive UI · authentication
-`MongoDB` `Express` `React` `Node.js`
+`PostgreSQL` `Express` `React` `Node.js`
 
 <a href="https://foodiespace.vercel.app"><img src="https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
@@ -183,9 +183,19 @@ Build, customize, and export resumes with live preview
 </td>
 <td width="50%" valign="top">
 
+**🧑‍💼 Job Portal** — *AI-Powered Job Portal*
+AI-driven job matching and application platform
+`React` `Node.js` `Supabase` `AI` `Gemini API`
+
+<a href="#"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/WhisperedCloud/Job_portal.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
 **💰 BudgetBot** — *Expense Management Dashboard*
 Track income, expenses & spending trends
-`React` `Node.js` `MongoDB`
+`React` `Node.js` `Supabase`
 
 <a href="https://finance-tracker-eight-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/WhisperedCloud/BudgetBot.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
@@ -227,7 +237,10 @@ LLM-powered assistant with a clean chat interface
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+
+</td>
 </tr>
 
 </table>
@@ -247,7 +260,7 @@ LLM-powered assistant with a clean chat interface
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
-## 🛠️ Skills
+## 🧰 Skills
 
 <table width="100%">
 <tr>
