@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0D1117&height=200&section=header&text=&fontSize=0"/>
 
+<img align="right" width="120" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+
 <div align="center" width="100%">
-
-
-<img align="right" width="110" style="margin-top:-60px" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
 
 <h1>Hi 👋 I'm Eswar M</h1>
 
