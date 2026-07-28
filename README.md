@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0D1117&height=200&section=header&text=&fontSize=0"/>
 
-<table width="100%">
-<tr>
-<td width="88%" align="center" valign="middle">
+<div align="center" width="100%">
+
+<img align="right" width="110" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
 
 <h1>Hi 👋 I'm Eswar M</h1>
 
@@ -14,14 +14,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+products+%F0%9F%9A%80;Crafting+clean%2C+modern+UI+%E2%9C%A8;Shipping+AI-powered+tools+%F0%9F%A4%96"/></a>
 
-</td>
-<td width="12%" align="right" valign="top">
+<br clear="both"/>
 
-<img width="120" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -259,33 +254,47 @@ LLM-powered assistant with a clean chat interface
 <td valign="top" width="50%">
 
 **Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite"/>
+<br/><br/>
 
 **Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask"/>
+<br/><br/>
 
 **Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite"/>
+<br/><br/>
 
 **Cloud**
+<br/>
 <img src="https://skillicons.dev/icons?i=firebase,supabase,aws,azure"/>
 
 </td>
 <td valign="top" width="50%">
 
 **AI**
+<br/>
 <img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=6366F1"/>
 <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A855F7"/>
 <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=EC4899"/>
+<br/><br/>
 
 **Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<br/><br/>
 
 **Design**
+<br/>
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
 <img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=6366F1"/>
+<br/><br/>
 
 **DevOps**
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,githubactions"/>
 
 </td>
