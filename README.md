@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:065F46,100:0D1117&height=200&section=header&text=&fontSize=0"/>
 
-<table width="100%">
-<tr>
-<td width="72%" valign="middle">
+<div align="center">
+
+<img width="140" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
 
 <h1>Hi 👋 I'm Eswar M</h1>
 
@@ -14,16 +14,7 @@
 
 <p><em>Building scalable products, clean UI, and AI-powered tools — one commit at a time.</em></p>
 
-</td>
-<td width="28%" align="center" valign="middle">
-
-<img width="150" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+</div>
 
 <p>
   <a href="#-about">About</a> ·
@@ -86,8 +77,12 @@ I like solving real-world problems with practical technology — and I'm always 
 
 > *"Good design is invisible. Good code is inevitable."*
 
-**📄 Want the full story?**
-<a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/⬇️_Download_Resume-10B981?style=for-the-badge&logoColor=white"/></a>
+<table>
+<tr>
+<td valign="middle">📄 <strong>Want the full story?</strong></td>
+<td valign="middle"><a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/⬇️_Download_Resume-10B981?style=for-the-badge&logoColor=white"/></a></td>
+</tr>
+</table>
 
 </td>
 <td width="40%" valign="top">
@@ -186,7 +181,7 @@ Build, customize, and export resumes with live preview
 
 **💰 BudgetBot** — *Expense Management Dashboard*
 Track income, expenses & spending trends
-`React` `Node.js` `MongoDB`
+`Next.js` `Node.js` `Express.js` `Neon POstgreSQL` 
 
 <a href="https://finance-tracker-eight-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-34D399?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/WhisperedCloud/BudgetBot.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
