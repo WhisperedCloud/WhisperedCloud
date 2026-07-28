@@ -6,7 +6,6 @@
 
 <h1>Hi 👋 I'm Eswar M</h1>
 
-<br clear="both"/>
 
 <p>
   <img src="https://img.shields.io/badge/Full_Stack_Developer-0D1117?style=flat-square&color=6366F1"/>
@@ -111,7 +110,7 @@ I like solving real-world problems with practical technology — and I'm always 
 <div align="center">
 
 `Full Stack Developer` · `Frontend Developer` · `Backend Developer` · `Software Engineer`
-`AI Engineer` · `Freelance Projects` · `Remote Opportunities` · `Collaborations`
+`AI Engineer` · `Freelance Projects` · `Remote Opportunities` · `Internships` · `Collaborations`
 
 </div>
 
@@ -152,7 +151,7 @@ I like solving real-world problems with practical technology — and I'm always 
 
 **🍲 FoodieSpace** — *Recipe Sharing Platform*
 MERN stack · responsive UI · authentication
-`PostgreSQL` `Express` `React` `Node.js`
+`Supabase` `Express` `React` `Node.js`
 
 <a href="https://foodiespace.vercel.app"><img src="https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
@@ -183,19 +182,9 @@ Build, customize, and export resumes with live preview
 </td>
 <td width="50%" valign="top">
 
-**🧑‍💼 Job Portal** — *AI-Powered Job Portal*
-AI-driven job matching and application platform
-`React` `Node.js` `Supabase` `AI` `Gemini API`
-
-<a href="#"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/WhisperedCloud/Job_portal.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
 **💰 BudgetBot** — *Expense Management Dashboard*
 Track income, expenses & spending trends
-`React` `Node.js` `Supabase`
+`Next.js` `Node.js` `PostgreSQL`
 
 <a href="https://finance-tracker-eight-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/WhisperedCloud/BudgetBot.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
@@ -208,7 +197,7 @@ Track income, expenses & spending trends
 
 **📚 Study Tracker** — *Student Productivity App*
 Plan study sessions & track progress
-`React` `Node.js` `Express`
+`HTML` `CSS` `Javascript`
 
 <a href="https://study-tracker-murex.vercel.app"><img src="https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
@@ -239,6 +228,12 @@ LLM-powered assistant with a clean chat interface
 </td>
 <td width="50%" valign="top">
 
+**🧑‍💼 Job Portal** — *AI-Powered Job Portal*
+AI-driven job matching and application platform
+`React` `Node.js` `MongoDB` `AI` `Gemini API`
+
+<a href="#"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/WhisperedCloud/Job_portal.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
