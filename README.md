@@ -2,7 +2,8 @@
 
 <div align="center" width="100%">
 
-<img align="right" width="110" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+
+<img align="right" width="110" style="margin-top:-60px" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
 
 <h1>Hi 👋 I'm Eswar M</h1>
 
