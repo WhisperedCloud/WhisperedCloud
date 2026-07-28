@@ -1,20 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:065F46,100:0D1117&height=200&section=header&text=&fontSize=0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0D1117&height=200&section=header&text=&fontSize=0"/>
 
-<div align="center">
-
-<img width="140" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+<table width="100%">
+<tr>
+<td width="88%" align="center" valign="middle">
 
 <h1>Hi 👋 I'm Eswar M</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-0D1117?style=flat-square&color=10B981"/>
-  <img src="https://img.shields.io/badge/AI_Integration_Engineer-0D1117?style=flat-square&color=34D399"/>
-  <img src="https://img.shields.io/badge/MERN_Stack-0D1117?style=flat-square&color=6EE7B7"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-0D1117?style=flat-square&color=6366F1"/>
+  <img src="https://img.shields.io/badge/AI_Integration_Engineer-0D1117?style=flat-square&color=A855F7"/>
+  <img src="https://img.shields.io/badge/MERN_Stack-0D1117?style=flat-square&color=EC4899"/>
 </p>
 
-<p><em>Building scalable products, clean UI, and AI-powered tools — one commit at a time.</em></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+products+%F0%9F%9A%80;Crafting+clean%2C+modern+UI+%E2%9C%A8;Shipping+AI-powered+tools+%F0%9F%A4%96"/></a>
 
-</div>
+</td>
+<td width="12%" align="right" valign="top">
+
+<img width="120" src="https://images.weserv.nl/?url=github.com/WhisperedCloud.png&h=260&w=260&fit=cover&mask=circle&maxage=7d" alt="Eswar M"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <p>
   <a href="#-about">About</a> ·
@@ -28,16 +37,16 @@
 </p>
 
 <p>
-  <a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=34D399"/></a>
-  <a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=6EE7B7"/></a>
-  <a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=34D399"/></a>
-  <a href="mailto:meswar811@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6EE7B7"/></a>
+  <a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7"/></a>
+  <a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=EC4899"/></a>
+  <a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7"/></a>
+  <a href="mailto:meswar811@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=WhisperedCloud&style=flat-square&color=10B981&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/WhisperedCloud?label=Followers&style=flat-square&color=34D399"/>
-  <img src="https://img.shields.io/badge/📍_Open_to-Freelance_%7C_Full--Time-0D1117?style=flat-square&color=6EE7B7"/>
+  <img src="https://komarev.com/ghpvc/?username=WhisperedCloud&style=flat-square&color=6366F1&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/WhisperedCloud?label=Followers&style=flat-square&color=A855F7"/>
+  <img src="https://img.shields.io/badge/📍_Open_to-Freelance_%7C_Full--Time-0D1117?style=flat-square&color=EC4899"/>
 </p>
 
 </div>
@@ -63,7 +72,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 🧭 About
 
@@ -80,7 +89,7 @@ I like solving real-world problems with practical technology — and I'm always 
 <table>
 <tr>
 <td valign="middle">📄 <strong>Want the full story?</strong></td>
-<td valign="middle"><a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/⬇️_Download_Resume-10B981?style=for-the-badge&logoColor=white"/></a></td>
+<td valign="middle"><a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/⬇️_Download_Resume-6366F1?style=for-the-badge&logoColor=white"/></a></td>
 </tr>
 </table>
 
@@ -111,7 +120,7 @@ I like solving real-world problems with practical technology — and I'm always 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 🌟 Flagship Project
 
@@ -122,22 +131,22 @@ I like solving real-world problems with practical technology — and I'm always 
 ### 🗂️ LeaveFlow — Enterprise Leave Management System
 *A full role-based leave management platform, built for real organizational workflows.*
 
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=6EE7B7"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=EC4899"/>
 <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-0D1117?style=flat-square&logo=mongodb&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/JWT_Auth-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-0D1117?style=flat-square&logo=mongodb&logoColor=6366F1"/>
+<img src="https://img.shields.io/badge/JWT_Auth-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=A855F7"/>
 
 **Highlights:** Role-based auth · Employee / Manager / HR / Admin dashboards · JWT authentication · MongoDB Atlas · Fully responsive
 
-<a href="https://leaveflowsystem.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-10B981?style=for-the-badge&logoColor=white"/></a>
+<a href="https://leaveflowsystem.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/📂_Source-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 🚀 Projects
 
@@ -150,7 +159,7 @@ I like solving real-world problems with practical technology — and I'm always 
 MERN stack · responsive UI · authentication
 `MongoDB` `Express` `React` `Node.js`
 
-<a href="https://foodiespace.vercel.app"><img src="https://img.shields.io/badge/Demo-10B981?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://foodiespace.vercel.app"><img src="https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -160,7 +169,7 @@ MERN stack · responsive UI · authentication
 Real-time sentiment analysis powered by LLMs & NLP
 `Python` `Streamlit` `LLMs` `NLP`
 
-<a href="https://eswars-aura-ai.streamlit.app/"><img src="https://img.shields.io/badge/Demo-34D399?style=flat-square&logo=streamlit&logoColor=white"/></a>
+<a href="https://eswars-aura-ai.streamlit.app/"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=streamlit&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -173,7 +182,7 @@ Real-time sentiment analysis powered by LLMs & NLP
 Build, customize, and export resumes with live preview
 `React` `JavaScript` `Tailwind`
 
-<a href="https://resume-toolkites.vercel.app/"><img src="https://img.shields.io/badge/Demo-10B981?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://resume-toolkites.vercel.app/"><img src="https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -181,9 +190,9 @@ Build, customize, and export resumes with live preview
 
 **💰 BudgetBot** — *Expense Management Dashboard*
 Track income, expenses & spending trends
-`Next.js` `Node.js` `Express.js` `Neon POstgreSQL` 
+`React` `Node.js` `MongoDB`
 
-<a href="https://finance-tracker-eight-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-34D399?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://finance-tracker-eight-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/WhisperedCloud/BudgetBot.git"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -196,7 +205,7 @@ Track income, expenses & spending trends
 Plan study sessions & track progress
 `React` `Node.js` `Express`
 
-<a href="https://study-tracker-murex.vercel.app"><img src="https://img.shields.io/badge/Demo-10B981?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://study-tracker-murex.vercel.app"><img src="https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -206,7 +215,7 @@ Plan study sessions & track progress
 Aesthetic polaroid-style gallery with smooth interactions
 `React` `CSS` `JavaScript`
 
-<a href="https://polaroid-topaz.vercel.app"><img src="https://img.shields.io/badge/Demo-34D399?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://polaroid-topaz.vercel.app"><img src="https://img.shields.io/badge/Demo-A855F7?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -219,7 +228,7 @@ Aesthetic polaroid-style gallery with smooth interactions
 LLM-powered assistant with a clean chat interface
 `Python` `Streamlit` `LLMs`
 
-<a href="https://eswars-chatbot.streamlit.app/"><img src="https://img.shields.io/badge/Demo-10B981?style=flat-square&logo=streamlit&logoColor=white"/></a>
+<a href="https://eswars-chatbot.streamlit.app/"><img src="https://img.shields.io/badge/Demo-6366F1?style=flat-square&logo=streamlit&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -228,7 +237,7 @@ LLM-powered assistant with a clean chat interface
 
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 💼 Freelance Work
 
@@ -241,7 +250,7 @@ LLM-powered assistant with a clean chat interface
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 🛠️ Skills
 
@@ -265,16 +274,16 @@ LLM-powered assistant with a clean chat interface
 <td valign="top" width="50%">
 
 **AI**
-<img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=6EE7B7"/>
+<img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=6366F1"/>
+<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=EC4899"/>
 
 **Tools**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 **Design**
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
-<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=6366F1"/>
 
 **DevOps**
 <img src="https://skillicons.dev/icons?i=docker,githubactions"/>
@@ -298,18 +307,18 @@ LLM-powered assistant with a clean chat interface
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 📊 Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WhisperedCloud&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhisperedCloud&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=c9d1d9" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WhisperedCloud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhisperedCloud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" width="41%"/>
 
-<img src="https://streak-stats.demolab.com/?user=WhisperedCloud&theme=dark&hide_border=true&background=0D1117&stroke=10B981&ring=34D399&fire=10B981&currStreakLabel=34D399" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=WhisperedCloud&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=6366F1&currStreakLabel=A855F7" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhisperedCloud&theme=react-dark&hide_border=true&bg_color=0D1117&color=34D399&line=10B981&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhisperedCloud&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=6366F1&point=ffffff" width="90%"/>
 
 ### 🏆 Achievements
 
@@ -319,7 +328,7 @@ LLM-powered assistant with a clean chat interface
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 🎓 Certifications
 
@@ -338,7 +347,7 @@ LLM-powered assistant with a clean chat interface
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:34D399,100:6EE7B7&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 📬 Connect
 
@@ -346,14 +355,14 @@ LLM-powered assistant with a clean chat interface
 
 **Have an idea, a role, or a project in mind? My inbox is always open.**
 
-<a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=34D399"/></a>
-<a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=6EE7B7"/></a>
-<a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=34D399"/></a>
-<a href="mailto:meswar811@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6EE7B7"/></a>
+<a href="https://eswar-portfolio-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7"/></a>
+<a href="./Eswar_Resume_FS.pdf"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=EC4899"/></a>
+<a href="https://www.linkedin.com/in/m--eswar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7"/></a>
+<a href="mailto:meswar811@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899"/></a>
 <a href="https://github.com/WhisperedCloud"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:065F46,100:0D1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=34D399&animation=fadeIn&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0D1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=A855F7&animation=fadeIn&fontAlignY=70"/>
 
 <div align="center"><i>Let's build something amazing together. 🚀</i></div>
